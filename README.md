@@ -16,18 +16,18 @@ In this paper we analyzed more than 5000 Italian articles that contained "vaccin
 
 ## ...or a few highlights of the paper 👇
 
-![img1](imgs/fig1.png)
+![img1](imgs/fig1.png =500x)
 **Figure 1:** **(A)** Mechanisms of data creation and key differences highlighted by them in mainstream and alternative news. Data is grouped by weeks. Figure 1 (A) highlights how our approach gives structure to knowledge in news. --- **(B)** Each tile _<i, j>_ is coloured after the number of urls that have been shared _i_ times on Facebook and _j_ times on Twitter. Both axes are logarithmically binned.--- **(C)** Z-scores of emotions in news that contain the word "vaccin" against a neutral sample, grouped by day and smoothed with a weekly rolling average. Mainstream news about the word "vaccin" show consistent high levels of Trust and Anticipation, conveying hope for the vaccination campaign, and significantly less Disgust. This positive leaning is not visible in alternative news. ---**(D)**  Distribution of z-scores of bodies (right) and titles (left) into the emotional frame of the word "astrazenec", divided by mainstream and alternative outlets. There is a striking difference in how titles are written by mainstream and alternative news outlets, with the latter evoking more sadness but also significantly less disgust than the former. Such a difference is not visible in the articles bodies. White filled petals represent emotions that are not significantly over- or under-represented in the corpus, if compared with a neutral baseline.
 
-![img2](imgs/fig2_VacciAstra.png)
+![img2](imgs/fig2_VacciAstra.png =500x)
 **Figure 2:** Semantic frames of tightly linked concepts around "astrazenec" in journal news titles from mainstream sources (right) and alternative sources (left), before (top) and after (bottom) the temporary suspension of 15 March 2021.
 
 
-![img3](imgs/fig2_VacciPfi.png)
+![img3](imgs/fig2_VacciPfi.png =500x)
 **Figure 3:** Semantic frames of tightly linked concepts around "pfizer" in journal news titles from mainstream sources (right) and alternative sources (left), before (top) and after (bottom) the temporary suspension of 15 March 2021.
 
 
-![img4](imgs/fig4.png)
+![img4](imgs/fig4.png =500x)
 **Figure 4: (A)** Fraction of news that mention ``mort'' (death) and ``trombos'' (thrombosis) in their bodies and titles over the total of mainstream news (blue) and alternative news (red), smoothed by a moving average of the last 7 days. **(B)** Distribution of emotions in the semantic frame of ``mort'' (death) in the titles of mainstream and alternative articles.
 
 
@@ -44,13 +44,16 @@ File `files_urls_social.csv` lists all the articles reviewed in this paper. It h
 
 ## How to cite it
 
-```@misc{semeraro2022writing,
+```
+@misc{semeraro2022writing,
       title={Writing about COVID-19 vaccines: Emotional profiling unravels how mainstream and alternative press framed AstraZeneca, Pfizer and vaccination campaigns}, 
       author={Alfonso Semeraro and Salvatore Vilella and Giancarlo Ruffo and Massimo Stella},
       year={2022},
       eprint={2201.07538},
       archivePrefix={arXiv},
       primaryClass={cs.CY}
-}```
+}
+```
+
 
 Thanks!
