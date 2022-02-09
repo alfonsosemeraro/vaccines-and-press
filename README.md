@@ -16,7 +16,7 @@ In this paper we analyzed more than 5000 Italian articles that contained "vaccin
 
 ## ...or a few highlights of the paper 👇
 
-![img1](imgs/fig1.png | width=400)
+<img src="imgs/fig1.png" width="400">
 **Figure 1:** **(A)** Mechanisms of data creation and key differences highlighted by them in mainstream and alternative news. Data is grouped by weeks. Figure 1 (A) highlights how our approach gives structure to knowledge in news. --- **(B)** Each tile _<i, j>_ is coloured after the number of urls that have been shared _i_ times on Facebook and _j_ times on Twitter. Both axes are logarithmically binned.--- **(C)** Z-scores of emotions in news that contain the word "vaccin" against a neutral sample, grouped by day and smoothed with a weekly rolling average. Mainstream news about the word "vaccin" show consistent high levels of Trust and Anticipation, conveying hope for the vaccination campaign, and significantly less Disgust. This positive leaning is not visible in alternative news. ---**(D)**  Distribution of z-scores of bodies (right) and titles (left) into the emotional frame of the word "astrazenec", divided by mainstream and alternative outlets. There is a striking difference in how titles are written by mainstream and alternative news outlets, with the latter evoking more sadness but also significantly less disgust than the former. Such a difference is not visible in the articles bodies. White filled petals represent emotions that are not significantly over- or under-represented in the corpus, if compared with a neutral baseline.
 
 ![img2](imgs/fig2_VacciAstra.png | width=300)
