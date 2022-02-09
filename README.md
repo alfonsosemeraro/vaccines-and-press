@@ -1,9 +1,12 @@
-# vaccines-and-press
-Data for "Writing about COVID-19 vaccines: Emotional profiling unravels how mainstream and alternative press framed AstraZeneca, Pfizer and vaccination campaigns"
+Data for 
+
+# Writing about COVID-19 vaccines: Emotional profiling unravels how mainstream and alternative press framed AstraZeneca, Pfizer and vaccination campaigns
 
 This repository hosts the data for _"Writing about COVID-19 vaccines: Emotional profiling unravels how mainstream and alternative press framed AstraZeneca, Pfizer and vaccination campaigns"_, our submission currently under review. A pre-print is available [here](https://arxiv.org/abs/2201.07538). 
 
 > COVID-19 vaccines have been largely debated by the press. To understand how mainstream and alternative media debated vaccines, we introduce a paradigm reconstructing time-evolving narrative frames via cognitive networks and natural language processing. We study Italian news articles massively re-shared on Facebook/Twitter (up to 5 million times), covering 5745 vaccine-related news from 17 news outlets over 8 months. We find consistently high trust/anticipation and low disgust in the way mainstream sources framed "vaccine/vaccino". These emotions were crucially missing in alternative outlets. News titles from alternative sources framed "AstraZeneca" with sadness, absent in mainstream titles. Initially, mainstream news linked mostly "Pfizer" with side effects (e.g. "allergy", "reaction", "fever"). With the temporary suspension of "AstraZeneca", negative associations shifted: Mainstream titles prominently linked "AstraZeneca" with side effects, while "Pfizer" underwent a positive valence shift, linked to its higher efficacy. Simultaneously, _thrombosis_ and fearful conceptual associations entered the frame of vaccines, while _death_ changed context, i.e. rather than hopefully preventing deaths, vaccines could be reported as potential causes of death, increasing fear. Our findings expose crucial aspects of the emotional narratives around COVID-19 vaccines adopted by the press, highlighting the need to understand how alternative and mainstream media report vaccination news.
+
+
 
 In this paper we analyzed more than 5000 Italian articles that contained "vaccine" or one name of vaccines in their titles, during a 8 months observation period between October 2020 and May 2021. We extracted the [semantic frames](https://www.mdpi.com/2227-7102/10/1/17) surrounding key words like "vaccine", highlighting the most recurrent and important semantic associations; we also displayed the [emotional characterization](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0256503) of the semantic frames linked to specific concepts. 
 
@@ -41,13 +44,13 @@ File `files_urls_social.csv` lists all the articles reviewed in this paper. It h
 
 ## How to cite it
 
-> @misc{semeraro2022writing,
+`@misc{semeraro2022writing,
       title={Writing about COVID-19 vaccines: Emotional profiling unravels how mainstream and alternative press framed AstraZeneca, Pfizer and vaccination campaigns}, 
       author={Alfonso Semeraro and Salvatore Vilella and Giancarlo Ruffo and Massimo Stella},
       year={2022},
       eprint={2201.07538},
       archivePrefix={arXiv},
       primaryClass={cs.CY}
-}
+}`
 
 Thanks!
