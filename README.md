@@ -23,7 +23,7 @@ In this paper we analyzed more than 5000 Italian articles that contained "vaccin
 **Figure 2:** Semantic frames of tightly linked concepts around "astrazenec" in journal news titles from mainstream sources (right) and alternative sources (left), before (top) and after (bottom) the temporary suspension of 15 March 2021.
 
 
-![img3](imgs/fig2_VacciPfi.png)
+![img3](imgs/fig3_VacciPfi.png)
 **Figure 3:** Semantic frames of tightly linked concepts around "pfizer" in journal news titles from mainstream sources (right) and alternative sources (left), before (top) and after (bottom) the temporary suspension of 15 March 2021.
 
 
